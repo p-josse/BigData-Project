@@ -1,0 +1,1362 @@
+[
+    {
+        "Marque": "Citroen",
+        "Modele": "C3",
+        "Annee": 2020,
+        "Kilometrage": 61081,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "Tiguan",
+        "Annee": 2023,
+        "Kilometrage": 26997,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "308",
+        "Annee": 2021,
+        "Kilometrage": 60177,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "Tiguan",
+        "Annee": 2019,
+        "Kilometrage": 80719,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "5008",
+        "Annee": 2020,
+        "Kilometrage": 73948,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Bmw",
+        "Modele": "X1",
+        "Annee": 2021,
+        "Kilometrage": 52888,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Skoda",
+        "Modele": "Karoq",
+        "Annee": 2023,
+        "Kilometrage": 12995,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "3008",
+        "Annee": 2023,
+        "Kilometrage": 11539,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Nissan",
+        "Modele": "X-Trail",
+        "Annee": 2019,
+        "Kilometrage": 150533,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Bmw",
+        "Modele": "Serie 5",
+        "Annee": 2020,
+        "Kilometrage": 121114,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "5008",
+        "Annee": 2020,
+        "Kilometrage": 98857,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Mini",
+        "Modele": "Iii",
+        "Annee": 2020,
+        "Kilometrage": 11760,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Fiat",
+        "Modele": "500 X",
+        "Annee": 2021,
+        "Kilometrage": 49495,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Renault",
+        "Modele": "Captur",
+        "Annee": 2022,
+        "Kilometrage": 29219,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Mini",
+        "Modele": "Iii",
+        "Annee": 2021,
+        "Kilometrage": 44641,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Audi",
+        "Modele": "Q5",
+        "Annee": 2019,
+        "Kilometrage": 43299,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Renault",
+        "Modele": "Megane",
+        "Annee": 2017,
+        "Kilometrage": 95325,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "Polo",
+        "Annee": 2020,
+        "Kilometrage": 59919,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "208",
+        "Annee": 2022,
+        "Kilometrage": 23028,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Citroen",
+        "Modele": "Grand C4 Picasso",
+        "Annee": 2018,
+        "Kilometrage": 112177,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Audi",
+        "Modele": "A4",
+        "Annee": 2015,
+        "Kilometrage": 134470,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Renault",
+        "Modele": "Megane",
+        "Annee": 2020,
+        "Kilometrage": 96684,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Volvo",
+        "Modele": "S60",
+        "Annee": 2022,
+        "Kilometrage": 39325,
+        "Transmission": "Automatique",
+        "Energie": "Hybrides"
+    },
+    {
+        "Marque": "Ds",
+        "Modele": "7",
+        "Annee": 2019,
+        "Kilometrage": 107290,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Bmw",
+        "Modele": "Serie 6",
+        "Annee": 2022,
+        "Kilometrage": 56120,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "2008",
+        "Annee": 2023,
+        "Kilometrage": 9624,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Kia",
+        "Modele": "Niro",
+        "Annee": 2020,
+        "Kilometrage": 103640,
+        "Transmission": "Automatique",
+        "Energie": "Hybrides"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "Golf",
+        "Annee": 2022,
+        "Kilometrage": 48228,
+        "Transmission": "Automatique",
+        "Energie": "Hybrides"
+    },
+    {
+        "Marque": "Seat",
+        "Modele": "Arona",
+        "Annee": 2023,
+        "Kilometrage": 9412,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Renault",
+        "Modele": "Arkana",
+        "Annee": 2022,
+        "Kilometrage": 40841,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Ds",
+        "Modele": "7",
+        "Annee": 2021,
+        "Kilometrage": 81314,
+        "Transmission": "Automatique",
+        "Energie": "Hybrides"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "208",
+        "Annee": 2021,
+        "Kilometrage": 43042,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "Touran",
+        "Annee": 2021,
+        "Kilometrage": 73019,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "3008",
+        "Annee": 2022,
+        "Kilometrage": 11,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "508",
+        "Annee": 2015,
+        "Kilometrage": 167658,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Porsche",
+        "Modele": "Cayenne",
+        "Annee": 2020,
+        "Kilometrage": 86900,
+        "Transmission": "Automatique",
+        "Energie": "Hybrides"
+    },
+    {
+        "Marque": "Bmw",
+        "Modele": "Serie 6",
+        "Annee": 2009,
+        "Kilometrage": 177704,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Mitsubishi",
+        "Modele": "Outlander",
+        "Annee": 2011,
+        "Kilometrage": 180569,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Ford",
+        "Modele": "Puma",
+        "Annee": 2021,
+        "Kilometrage": 38594,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Renault",
+        "Modele": "Master",
+        "Annee": 2024,
+        "Kilometrage": 1,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "E-208",
+        "Annee": 2024,
+        "Kilometrage": 1250,
+        "Transmission": "Automatique",
+        "Energie": "Électrique"
+    },
+    {
+        "Marque": "Mercedes",
+        "Modele": "Glc",
+        "Annee": 2020,
+        "Kilometrage": 126140,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Renault",
+        "Modele": "Kadjar",
+        "Annee": 2019,
+        "Kilometrage": 113418,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Mercedes",
+        "Modele": "Sl",
+        "Annee": 1998,
+        "Kilometrage": 131890,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Renault",
+        "Modele": "Kangoo",
+        "Annee": 2020,
+        "Kilometrage": 17250,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "T-Cross",
+        "Annee": 2021,
+        "Kilometrage": 29146,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Tesla",
+        "Modele": "Model S",
+        "Annee": 2018,
+        "Kilometrage": 111213,
+        "Transmission": "Automatique",
+        "Energie": "Électrique"
+    },
+    {
+        "Marque": "Opel",
+        "Modele": "Mokka",
+        "Annee": 2024,
+        "Kilometrage": 6300,
+        "Transmission": "Automatique",
+        "Energie": "Électrique"
+    },
+    {
+        "Marque": "Seat",
+        "Modele": "Ateca",
+        "Annee": 2024,
+        "Kilometrage": 11,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Citroen",
+        "Modele": "C3",
+        "Annee": 2010,
+        "Kilometrage": 110364,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "Polo",
+        "Annee": 2024,
+        "Kilometrage": 3055,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Audi",
+        "Modele": "Rs3",
+        "Annee": 2020,
+        "Kilometrage": 58093,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Renault",
+        "Modele": "Clio",
+        "Annee": 2022,
+        "Kilometrage": 29636,
+        "Transmission": "Automatique",
+        "Energie": "Hybrides"
+    },
+    {
+        "Marque": "Opel",
+        "Modele": "Corsa",
+        "Annee": 2020,
+        "Kilometrage": 34090,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Citroen",
+        "Modele": "Grand C4 Spacetourer",
+        "Annee": 2022,
+        "Kilometrage": 42843,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Skoda",
+        "Modele": "Kodiaq",
+        "Annee": 2024,
+        "Kilometrage": 17,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Ds",
+        "Modele": "3",
+        "Annee": 2017,
+        "Kilometrage": 111568,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Alfa Romeo",
+        "Modele": "4C",
+        "Annee": 2020,
+        "Kilometrage": 22,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "E-2008",
+        "Annee": 2023,
+        "Kilometrage": 1090,
+        "Transmission": "Automatique",
+        "Energie": "Électrique"
+    },
+    {
+        "Marque": "Bmw",
+        "Modele": "X2",
+        "Annee": 2020,
+        "Kilometrage": 43188,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Citroen",
+        "Modele": "C5 Aircross",
+        "Annee": 2021,
+        "Kilometrage": 31131,
+        "Transmission": "Automatique",
+        "Energie": "Hybrides"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "3008",
+        "Annee": 2019,
+        "Kilometrage": 139869,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Hyundai",
+        "Modele": "I20",
+        "Annee": 2024,
+        "Kilometrage": 8886,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "Golf",
+        "Annee": 2014,
+        "Kilometrage": 73830,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Kia",
+        "Modele": "Picanto",
+        "Annee": 2024,
+        "Kilometrage": 11,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "208",
+        "Annee": 2024,
+        "Kilometrage": 1,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Porsche",
+        "Modele": "911",
+        "Annee": 2017,
+        "Kilometrage": 46173,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Jeep",
+        "Modele": "Renegade",
+        "Annee": 2024,
+        "Kilometrage": 11,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Audi",
+        "Modele": "A4",
+        "Annee": 2024,
+        "Kilometrage": 17125,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "2008",
+        "Annee": 2018,
+        "Kilometrage": 88504,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Audi",
+        "Modele": "Sq5",
+        "Annee": 2017,
+        "Kilometrage": 121661,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "Golf",
+        "Annee": 2023,
+        "Kilometrage": 42789,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "Transporter",
+        "Annee": 2024,
+        "Kilometrage": 4025,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Bmw",
+        "Modele": "Serie 1",
+        "Annee": 2020,
+        "Kilometrage": 42795,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "208",
+        "Annee": 2022,
+        "Kilometrage": 45354,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "Golf",
+        "Annee": 2017,
+        "Kilometrage": 106260,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "3008",
+        "Annee": 2023,
+        "Kilometrage": 9713,
+        "Transmission": "Automatique",
+        "Energie": "Hybrides"
+    },
+    {
+        "Marque": "Fiat",
+        "Modele": "500",
+        "Annee": 2021,
+        "Kilometrage": 56210,
+        "Transmission": "Manuelle",
+        "Energie": "Hybrides"
+    },
+    {
+        "Marque": "Renault",
+        "Modele": "Zoe",
+        "Annee": 2021,
+        "Kilometrage": 29704,
+        "Transmission": "Automatique",
+        "Energie": "Électrique"
+    },
+    {
+        "Marque": "Mini",
+        "Modele": "Iii",
+        "Annee": 2019,
+        "Kilometrage": 61475,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Audi",
+        "Modele": "A3",
+        "Annee": 2023,
+        "Kilometrage": 16614,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Ds",
+        "Modele": "3",
+        "Annee": 2019,
+        "Kilometrage": 90460,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "Passat",
+        "Annee": 2020,
+        "Kilometrage": 91222,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Citroen",
+        "Modele": "C3",
+        "Annee": 2016,
+        "Kilometrage": 79116,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Citroen",
+        "Modele": "C5 Aircross",
+        "Annee": 2022,
+        "Kilometrage": 86140,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "Polo",
+        "Annee": 2020,
+        "Kilometrage": 59919,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "Golf",
+        "Annee": 2020,
+        "Kilometrage": 59508,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "308",
+        "Annee": 2016,
+        "Kilometrage": 94952,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Citroen",
+        "Modele": "C3",
+        "Annee": 2020,
+        "Kilometrage": 104160,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Mini",
+        "Modele": "Countryman",
+        "Annee": 2015,
+        "Kilometrage": 121701,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Porsche",
+        "Modele": "911",
+        "Annee": 2020,
+        "Kilometrage": 48262,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "208",
+        "Annee": 2019,
+        "Kilometrage": 65174,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Chevrolet",
+        "Modele": "Corvette",
+        "Annee": 2017,
+        "Kilometrage": 34200,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Opel",
+        "Modele": "Zafira",
+        "Annee": 2018,
+        "Kilometrage": 85035,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "Golf",
+        "Annee": 2018,
+        "Kilometrage": 70469,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Mazda",
+        "Modele": "Mx5",
+        "Annee": 2020,
+        "Kilometrage": 25810,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Fiat",
+        "Modele": "500",
+        "Annee": 2022,
+        "Kilometrage": 46793,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "Golf",
+        "Annee": 2019,
+        "Kilometrage": 129681,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Bmw",
+        "Modele": "Serie 4",
+        "Annee": 2024,
+        "Kilometrage": 5900,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Skoda",
+        "Modele": "Superb",
+        "Annee": 2021,
+        "Kilometrage": 51183,
+        "Transmission": "Automatique",
+        "Energie": "Hybrides"
+    },
+    {
+        "Marque": "Dacia",
+        "Modele": "Duster",
+        "Annee": 2023,
+        "Kilometrage": 11780,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Audi",
+        "Modele": "A3",
+        "Annee": 2018,
+        "Kilometrage": 85738,
+        "Transmission": "Automatique",
+        "Energie": "Hybrides"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "508",
+        "Annee": 2015,
+        "Kilometrage": 167658,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Citroen",
+        "Modele": "Grand C4 Spacetourer",
+        "Annee": 2022,
+        "Kilometrage": 44261,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "208",
+        "Annee": 2020,
+        "Kilometrage": 71704,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "California",
+        "Annee": 2024,
+        "Kilometrage": 120,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Porsche",
+        "Modele": "Macan",
+        "Annee": 2019,
+        "Kilometrage": 39151,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "208",
+        "Annee": 2021,
+        "Kilometrage": 21262,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Renault",
+        "Modele": "Talisman",
+        "Annee": 2018,
+        "Kilometrage": 121501,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Seat",
+        "Modele": "Ateca",
+        "Annee": 2024,
+        "Kilometrage": 11,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Seat",
+        "Modele": "Ateca",
+        "Annee": 2019,
+        "Kilometrage": 72797,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Porsche",
+        "Modele": "Macan",
+        "Annee": 2018,
+        "Kilometrage": 124080,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Ford",
+        "Modele": "Puma",
+        "Annee": 2021,
+        "Kilometrage": 38174,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "Golf",
+        "Annee": 2022,
+        "Kilometrage": 55219,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Porsche",
+        "Modele": "Macan",
+        "Annee": 2020,
+        "Kilometrage": 75020,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "2008",
+        "Annee": 2023,
+        "Kilometrage": 2624,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Mini",
+        "Modele": "Iii",
+        "Annee": 2019,
+        "Kilometrage": 33350,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Tesla",
+        "Modele": "Model 3",
+        "Annee": 2022,
+        "Kilometrage": 31694,
+        "Transmission": "Automatique",
+        "Energie": "Électrique"
+    },
+    {
+        "Marque": "Citroen",
+        "Modele": "C5 Aircross",
+        "Annee": 2020,
+        "Kilometrage": 81209,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Audi",
+        "Modele": "Rs3",
+        "Annee": 2020,
+        "Kilometrage": 58093,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "Taigo",
+        "Annee": 2023,
+        "Kilometrage": 17751,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Dacia",
+        "Modele": "Duster",
+        "Annee": 2022,
+        "Kilometrage": 21236,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "208",
+        "Annee": 2023,
+        "Kilometrage": 1600,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Mercedes",
+        "Modele": "Classe A",
+        "Annee": 2019,
+        "Kilometrage": 76057,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Bmw",
+        "Modele": "X2",
+        "Annee": 2019,
+        "Kilometrage": 108669,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Maserati",
+        "Modele": "Ghibli",
+        "Annee": 2015,
+        "Kilometrage": 40660,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Porsche",
+        "Modele": "911",
+        "Annee": 2018,
+        "Kilometrage": 40948,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "Polo",
+        "Annee": 2020,
+        "Kilometrage": 69578,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "T-Cross",
+        "Annee": 2024,
+        "Kilometrage": 11,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Volvo",
+        "Modele": "V60",
+        "Annee": 2020,
+        "Kilometrage": 51840,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Subaru",
+        "Modele": "Levorg",
+        "Annee": 2022,
+        "Kilometrage": 33214,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Audi",
+        "Modele": "Sq8",
+        "Annee": 2021,
+        "Kilometrage": 80361,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Audi",
+        "Modele": "A3",
+        "Annee": 2024,
+        "Kilometrage": 12177,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Porsche",
+        "Modele": "911",
+        "Annee": 2021,
+        "Kilometrage": 23969,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "Tiguan",
+        "Annee": 2017,
+        "Kilometrage": 86135,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "Coccinelle",
+        "Annee": 2017,
+        "Kilometrage": 90720,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Audi",
+        "Modele": "A4",
+        "Annee": 2024,
+        "Kilometrage": 17125,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Porsche",
+        "Modele": "911",
+        "Annee": 2021,
+        "Kilometrage": 9102,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Dodge",
+        "Modele": "Ram",
+        "Annee": 2023,
+        "Kilometrage": 37,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Opel",
+        "Modele": "Grandland X",
+        "Annee": 2022,
+        "Kilometrage": 46683,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Ds",
+        "Modele": "7",
+        "Annee": 2020,
+        "Kilometrage": 51989,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Mini",
+        "Modele": "Iii",
+        "Annee": 2020,
+        "Kilometrage": 62794,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Fiat",
+        "Modele": "Panda",
+        "Annee": 2017,
+        "Kilometrage": 34698,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "508",
+        "Annee": 2020,
+        "Kilometrage": 49751,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Audi",
+        "Modele": "Rs5",
+        "Annee": 2020,
+        "Kilometrage": 24396,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "E-2008",
+        "Annee": 2021,
+        "Kilometrage": 13776,
+        "Transmission": "Automatique",
+        "Energie": "Électrique"
+    },
+    {
+        "Marque": "Land Rover",
+        "Modele": "Range Rover",
+        "Annee": 2020,
+        "Kilometrage": 117635,
+        "Transmission": "Automatique",
+        "Energie": "Hybrides"
+    },
+    {
+        "Marque": "Bmw",
+        "Modele": "X3",
+        "Annee": 2019,
+        "Kilometrage": 143910,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Mini",
+        "Modele": "Iii",
+        "Annee": 2022,
+        "Kilometrage": 17199,
+        "Transmission": "Automatique",
+        "Energie": "Électrique"
+    },
+    {
+        "Marque": "Renault",
+        "Modele": "Scenic",
+        "Annee": 2019,
+        "Kilometrage": 50894,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "208",
+        "Annee": 2023,
+        "Kilometrage": 17114,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Fiat",
+        "Modele": "Punto",
+        "Annee": 2014,
+        "Kilometrage": 75380,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Ds",
+        "Modele": "3",
+        "Annee": 2021,
+        "Kilometrage": 21821,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Audi",
+        "Modele": "A4",
+        "Annee": 2022,
+        "Kilometrage": 32983,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Fiat",
+        "Modele": "Fiorino",
+        "Annee": 2024,
+        "Kilometrage": 3750,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Nissan",
+        "Modele": "Qashqai",
+        "Annee": 2019,
+        "Kilometrage": 44356,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Renault",
+        "Modele": "Megane",
+        "Annee": 2015,
+        "Kilometrage": 113704,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "Tiguan",
+        "Annee": 2017,
+        "Kilometrage": 99720,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Opel",
+        "Modele": "Mokka",
+        "Annee": 2023,
+        "Kilometrage": 11,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Renault",
+        "Modele": "Captur",
+        "Annee": 2022,
+        "Kilometrage": 11,
+        "Transmission": "Automatique",
+        "Energie": "Hybrides"
+    },
+    {
+        "Marque": "Ford",
+        "Modele": "Focus",
+        "Annee": 2014,
+        "Kilometrage": 168900,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Mini",
+        "Modele": "Iii",
+        "Annee": 2022,
+        "Kilometrage": 5162,
+        "Transmission": "Automatique",
+        "Energie": "Électrique"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "Golf",
+        "Annee": 2020,
+        "Kilometrage": 100498,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Citroen",
+        "Modele": "C4 Spacetourer",
+        "Annee": 2020,
+        "Kilometrage": 82407,
+        "Transmission": "Automatique",
+        "Energie": "Essence"
+    },
+    {
+        "Marque": "Audi",
+        "Modele": "A3",
+        "Annee": 2021,
+        "Kilometrage": 62650,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "308",
+        "Annee": 2021,
+        "Kilometrage": 75000,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Volkswagen",
+        "Modele": "Golf",
+        "Annee": 2021,
+        "Kilometrage": 65695,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Audi",
+        "Modele": "Q3",
+        "Annee": 2023,
+        "Kilometrage": 57,
+        "Transmission": "Automatique",
+        "Energie": "Diesel"
+    },
+    {
+        "Marque": "Bmw",
+        "Modele": "Serie 3",
+        "Annee": 2018,
+        "Kilometrage": 135625,
+        "Transmission": "Automatique",
+        "Energie": "Hybrides"
+    },
+    {
+        "Marque": "Fiat",
+        "Modele": "Tipo",
+        "Annee": 2022,
+        "Kilometrage": 32414,
+        "Transmission": "Manuelle",
+        "Energie": "Essence"
+    }
+]
