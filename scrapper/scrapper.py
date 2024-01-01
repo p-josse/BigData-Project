@@ -14,13 +14,6 @@ two_w_model = {"punto evo", "e city", "e coupe", "b3 s", "v12 speedster", "v12 v
 three_w_model = {"e-tron s sportback", "rs e-tron gt", "benivan 105 up", "serie 3 gt", "serie 5 gt", "copa c500 bahia", "grand c4 picasso", "grand c4 spacetourer", "ds 3 crossback", "ds 4 crossback", "ds 7 crossback", "grand tourneo connect", "trek 5 +", "trek 5+ xl", "daily chassis cab", "pro cee d", "range rover evoque", "range rover sport", "range rover velar", "356 mader replica", "fun extr m", "dfsk ec 35", "land cruiser sw", "proace city verso", "tr 5 pi", "v40 cross country", "v60 cross country", "v90 cross country"}
 four_w_model = {"serie 8 gran coupe"}
 
-def show_loading_animation():
-    animation = "|/-\\"
-    for _ in range(10):
-        for char in animation:
-            print(char, end="\r")
-            time.sleep(0.1)
-
 ads = []
 
 for page in range(1, number_of_pages + 1):
