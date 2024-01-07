@@ -1,0 +1,155 @@
+[
+    {
+        "Marque": "Volkswagen",
+        "Modele": "Golf",
+        "Annee": 2022,
+        "Kilometrage": 7000,
+        "Transmission": "Automatique",
+        "Energie": "Hybrides",
+        "Prix": 40990
+    },
+    {
+        "Marque": "Bmw",
+        "Modele": "X1",
+        "Annee": 2021,
+        "Kilometrage": 58780,
+        "Transmission": "Automatique",
+        "Energie": "Diesel",
+        "Prix": 33890
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "3008",
+        "Annee": 2021,
+        "Kilometrage": 44148,
+        "Transmission": "Automatique",
+        "Energie": "Essence",
+        "Prix": 29990
+    },
+    {
+        "Marque": "Citroen",
+        "Modele": "C3 Aircross",
+        "Annee": 2022,
+        "Kilometrage": 14572,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel",
+        "Prix": 21990
+    },
+    {
+        "Marque": "Alfa Romeo",
+        "Modele": "Stelvio",
+        "Annee": 2017,
+        "Kilometrage": 77750,
+        "Transmission": "Automatique",
+        "Energie": "Diesel",
+        "Prix": 24490
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "308",
+        "Annee": 2022,
+        "Kilometrage": 10,
+        "Transmission": "Automatique",
+        "Energie": "Diesel",
+        "Prix": 36990
+    },
+    {
+        "Marque": "Bmw",
+        "Modele": "Serie 4",
+        "Annee": 2016,
+        "Kilometrage": 37600,
+        "Transmission": "Automatique",
+        "Energie": "Essence",
+        "Prix": 66990
+    },
+    {
+        "Marque": "Alfa Romeo",
+        "Modele": "Giulia",
+        "Annee": 2018,
+        "Kilometrage": 73190,
+        "Transmission": "Automatique",
+        "Energie": "Diesel",
+        "Prix": 29990
+    },
+    {
+        "Marque": "Citroen",
+        "Modele": "C3",
+        "Annee": 2023,
+        "Kilometrage": 15248,
+        "Transmission": "Manuelle",
+        "Energie": "Essence",
+        "Prix": 15990
+    },
+    {
+        "Marque": "Renault",
+        "Modele": "Zoe",
+        "Annee": 2021,
+        "Kilometrage": 12980,
+        "Transmission": "Automatique",
+        "Energie": "Électrique",
+        "Prix": 19980
+    },
+    {
+        "Marque": "Mercedes",
+        "Modele": "Classe A",
+        "Annee": 2019,
+        "Kilometrage": 37242,
+        "Transmission": "Automatique",
+        "Energie": "Essence",
+        "Prix": 32890
+    },
+    {
+        "Marque": "Citroen",
+        "Modele": "C3 Aircross",
+        "Annee": 2019,
+        "Kilometrage": 76452,
+        "Transmission": "Automatique",
+        "Energie": "Essence",
+        "Prix": 15990
+    },
+    {
+        "Marque": "Peugeot",
+        "Modele": "408",
+        "Annee": 2023,
+        "Kilometrage": 12500,
+        "Transmission": "Automatique",
+        "Energie": "Essence",
+        "Prix": 33900
+    },
+    {
+        "Marque": "Hyundai",
+        "Modele": "Kona",
+        "Annee": 2021,
+        "Kilometrage": 35922,
+        "Transmission": "Automatique",
+        "Energie": "Électrique",
+        "Prix": 29990
+    },
+    {
+        "Marque": "Mazda",
+        "Modele": "Mx5",
+        "Annee": 2019,
+        "Kilometrage": 33850,
+        "Transmission": "Manuelle",
+        "Energie": "Essence",
+        "Prix": 35100
+    },
+    {
+        "Marque": "Audi",
+        "Modele": "A3",
+        "Annee": 2017,
+        "Kilometrage": 79986,
+        "Transmission": "Manuelle",
+        "Energie": "Diesel",
+        "Prix": 20990
+    },
+    {
+        "Marque": "Seat",
+        "Modele": "Leon",
+        "Annee": 2018,
+        "Kilometrage": 59999,
+        "Transmission": "Automatique",
+        "Energie": "Essence",
+        "Prix": 29990
+    }
+]
