@@ -3,7 +3,9 @@ import json
 import requests
 from bs4 import BeautifulSoup as bs
 
-number_of_pages = 1
+API_KEY = 'add_your_api_key'
+NUMBER_OF_PAGES = 1
+
 base_url = "https://www.lacentrale.fr/listing?makesModelsCommercialNames=&options=&page="
 
 one_w_brands = {"abarth", "ac", "aiways", "aixam", "alpina", "alpine", "anaig", "ariel", "audi", "austin", "autobianchi", "bellier", "benimar", "bentley", "bmw", "bollore", "bugatti", "buick", "burstner", "byd", "cadillac", "casalini", "caterham", "challenger", "chatenet", "chevrolet", "chrysler", "citroen", "cupra", "dacia", "daewoo", "daihatsu", "dallara", "dangel", "datsun", "devinci", "dfsk", "dodge", "donkervoort", "ds", "excalibur", "ferrari", "fiat", "fisker", "ford", "fuso", "glas", "gmc", "goupil", "hanroad", "hobby", "honda", "hotchkiss", "hummer", "hyundai", "imf", "ineos", "infiniti", "innocenti", "isuzu", "iveco", "jaguar", "jeep", "karma", "kia", "ktm", "lada", "lamborghini", "lancia", "leapmotor", "lexus", "ligier", "lincoln", "lotus", "man", "marcos", "maserati", "matra", "maybach", "mazda", "mclaren", "mega", "mercedes-amg", "mercedes", "mercury", "mg", "microcar", "microdrive", "minauto", "mini", "mitsubishi", "mlt", "morgan", "morris", "nash", "nissan", "nosmoke", "oldsmobile", "opale", "opel", "packard", "panhard", "panther", "peugeot", "pgo", "piaggio", "pilote", "plymouth", "polestar", "pontiac", "porsche", "radical", "ram", "rapido", "rcb", "renault", "rover", "saab", "santana", "seat", "secma", "seres", "simca", "skoda", "smart", "ssangyong", "subaru", "sunroller", "suzuki", "tesla", "toyota", "trabant", "triumph", "tvr", "vanderhall", "volkswagen", "volvo", "westfield", "wiesmann"}
@@ -19,7 +21,7 @@ def make_request(real_url):
         response = session.get(
             url = 'https://proxy.scrapeops.io/v1/',
             params = {
-                'api_key': '0bc23dbb-f542-468e-b0f7-84ca697ca0b1',
+                'api_key': API_KEY,
                 'url': real_url, 
             })
         response.raise_for_status()
@@ -120,7 +122,7 @@ def extract_car_info(soup):
 ads = []
 session = requests.Session()
 
-for page in range(1, number_of_pages + 1):
+for page in range(1, NUMBER_OF_PAGES + 1):
     url = f"{base_url}{page}"
     html_content = make_request(url)
 
